@@ -1,0 +1,6 @@
+git branch <branch-name>
+git checkout <branch-name>
+git add . && git commit -m "commit message"
+git push --set upstream origin <branch-name>
+git merge <branch-name>
+get back to the repository
