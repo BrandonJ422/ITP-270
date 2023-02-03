@@ -1,0 +1,16 @@
+194  ls
+  195  cd Practice_git_commands_si2382/
+  196  touch git_commands_v1.txt
+  197  nano -l git_commands_v1.txt 
+  198  cat git_commands_v1.txt 
+  199  git status
+  200  git add git_commands_v1.txt 
+  201  git status
+  202  clear
+  203  git commit -m "Adding the version 1 of command cheat sheet"
+  204  clear
+  205  cat git_commands_v1.txt 
+  206  clear
+  207  git push
+
+
