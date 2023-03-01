@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#Create Rivers.txt
+touch rivers.txt
+
+#Open the file using any terminal editor
+
+#Add five river names to it
+
